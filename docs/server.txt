@@ -1,0 +1,33 @@
+sudo a2enmod rewrite
+sudo systemctl restart apache2
+
+sudo systemctl restart httpd.service
+sudo systemctl start httpd.service
+
+-webkit-text-size-adjust: none;
+
+Skype: live:.cid.c0207e60ef97d830
+live:.cid.c0207e60ef97d830
+Telegram: SuperDev717, +13367171588
+https://t.me/SuperDev717
+Github: https://github.com/WebDev717
+Portfolio: https://lasselin.netlify.app/
+phone: 
++358 8 2371 1884
++1 850 396 1895
+https://www.linkedin.com/in/lasse-lin-9315b6262
+address: Puolakantie 61, Helsinki, Uusimaa, Finland  00980
+
+JavaScript: https://www.hackerrank.com/certificates/9c2c0bde0ca2
+SQL: https://www.hackerrank.com/certificates/2b4b1bfdba81
+Angular: https://www.hackerrank.com/certificates/e2199e8e195d
+React: https://www.hackerrank.com/certificates/5c1f5191e491
+Node: https://www.hackerrank.com/certificates/a55cd02d3438
+
+
+Experienced specialist with a passion for delivering outstanding service. 
+Always do the best to provide high quality and satisfy client. 
+Self-motivated, team player with strong organizational and interpersonal skills.
+
+Monday ~ Friday: 9am to 12am
+Weekend: 9am to 9pm
